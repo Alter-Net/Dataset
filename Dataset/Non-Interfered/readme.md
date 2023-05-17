@@ -1,11 +1,11 @@
-# IMUV Dataset
+# AlterNet Dataset
 
-IMUV project aims to decode speech signal from earphone IMUs, which has the advantage of being insensitive to environmental noise.
+AlterNet project aims to decode speech signal from earphone IMUs, which has the advantage of being insensitive to environmental noise.
 
 
 <br />
 
-IMUV dataset composes of speech data recorded using (1) IMU placed near the ear, (2) IMU placed near the neck, (3) contact microphone placed near the neck, and (4) normal microphone.
+AlterNet dataset composes of speech data recorded using (1) IMU placed near the ear, (2) IMU placed near the neck, (3) contact microphone placed near the neck, and (4) normal microphone.
 
 <br />
 We recruited four volunteers, and each volunteer is asked to speak (1) a list of 39 normal words, (2) a list of voice assistant wake words (Alexa, Google, Siri, Bixby)
