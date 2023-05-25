@@ -10,6 +10,7 @@ AlterNet dataset composes of speech data recorded using (1) IMU placed near the 
 <br />
 We recruited four volunteers, and each volunteer is asked to speak (1) a list of 39 normal words, (2) a list of voice assistant wake words (Alexa, Google, Siri, Bixby)
 
+For Volunteer 5-8, col. 2 stores IMU data near the ear with ~500Hz sampling rate.
 
 ## Directory Structure
     .
